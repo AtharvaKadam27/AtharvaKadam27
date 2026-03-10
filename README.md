@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Aman%20Mishra&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" style="max-width: 100%; height: auto;"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Atharva%20Kadam&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" style="max-width: 100%; height: auto;"/>
 </div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Full+Stack+Developer;🔐+Cyber+Security+Enthusiast;📊+Data+Science+Enthusiast;⚡+Frontend+Wizard;🌟+Always+Learning+New+Things;💡+Problem+Solver;🎯+Tech+Innovator;🔥+Code+Architect;✨+Innovation+Driver&font=Fira%20Code&center=true&width=600&height=70&color=36BCF7&vCenter=true&size=25&pause=1000&repeat=true&duration=3000" style="max-width: 100%; height: auto;"/>
@@ -7,14 +7,14 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/AmanMishra107">
-    <img src="https://komarev.com/ghpvc/?username=AmanMishra107&label=Profile%20Views&color=36BCF7&style=for-the-badge&logo=eye" alt="Profile Views"/>
+  <a href="https://github.com/AtharvaKadam27">
+    <img src="https://komarev.com/ghpvc/?username=AtharvaKadam27&label=Profile%20Views&color=36BCF7&style=for-the-badge&logo=eye" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/AmanMishra107?tab=followers">
-    <img src="https://img.shields.io/github/followers/AmanMishra107?label=Followers&style=for-the-badge&color=36BCF7&logo=github" alt="GitHub Followers"/>
+  <a href="https://github.com/AtharvaKadam27?tab=followers">
+    <img src="https://img.shields.io/github/followers/AtharvaKadam27?label=Followers&style=for-the-badge&color=36BCF7&logo=github" alt="GitHub Followers"/>
   </a>
-  <a href="https://github.com/AmanMishra107?tab=repositories">
-    <img src="https://img.shields.io/github/stars/AmanMishra107?label=Stars&style=for-the-badge&color=ffd700&logo=star" alt="GitHub Stars"/>
+  <a href="https://github.com/AtharvaKadam27?tab=repositories">
+    <img src="https://img.shields.io/github/stars/AtharvaKadam27?label=Stars&style=for-the-badge&color=ffd700&logo=star" alt="GitHub Stars"/>
   </a>
 </div>
 <div align="center">
@@ -43,7 +43,7 @@
 - ⚡ Fun fact: <div id="rotating-joke">**There are two ways to write error-free programs; only the third one works**</div>
 
 
-- 📧 Reach me at: **amanpavanmishra10@gmail.com**
+- 📧 Reach me at: **atharvak396@gmail.com**
 
 ### 🎯 Current Focus
 ```javascript
@@ -79,14 +79,14 @@ const currentFocus = {
   <table style="width: 100%;">
     <tr>
       <td align="center" style="width: 50%; padding: 5px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=AmanMishra107&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=30A3DC&border_radius=10" alt="GitHub Stats" style="max-width: 100%; height: auto;"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=AtharvaKadam27&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=30A3DC&border_radius=10" alt="GitHub Stats" style="max-width: 100%; height: auto;"/>
         <br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanMishra107&theme=tokyonight&background=0D1117&border=30A3DC&ring=1DB954&fire=1DB954&currStreakLabel=1DB954&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=A0A9B8&sideLabels=A0A9B8&stroke=30A3DC" alt="GitHub Streak" style="max-width: 100%; height: auto;"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvaKadam27&theme=tokyonight&background=0D1117&border=30A3DC&ring=1DB954&fire=1DB954&currStreakLabel=1DB954&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=A0A9B8&sideLabels=A0A9B8&stroke=30A3DC" alt="GitHub Streak" style="max-width: 100%; height: auto;"/>
       </td>
       <td align="center" style="width: 50%; padding: 5px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanMishra107&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=30A3DC&border_radius=10" alt="Top Languages" style="max-width: 100%; height: auto;"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaKadam27&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=30A3DC&border_radius=10" alt="Top Languages" style="max-width: 100%; height: auto;"/>
         <br>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanMishra107&bg_color=0D1117&color=1DB954&line=30A3DC&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" style="max-width: 100%; height: auto;"/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvaKadam27&bg_color=0D1117&color=1DB954&line=30A3DC&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" style="max-width: 100%; height: auto;"/>
       </td>
     </tr>
   </table>
@@ -175,8 +175,8 @@ const currentFocus = {
   <table style="width: 100%; border-collapse: collapse;">
     <tr>
       <td align="center" style="width: 50%; padding: 10px;">
-<a href="https://github.com/AmanMishra107/Budgetly">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanMishra107&repo=Budgetly&theme=tokyonight&bg_color=0D1117&border_color=30A3DC&border_radius=10" 
+<a href="https://github.com/AtharvaKadam27/Budgetly">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaKadam27&repo=Budgetly&theme=tokyonight&bg_color=0D1117&border_color=30A3DC&border_radius=10" 
        alt="Budgetly" />
 </a>
         <br><br>
@@ -196,8 +196,8 @@ const currentFocus = {
 
       
   <td align="center" style="width: 50%; padding: 10px;">
-    <a href="https://github.com/AmanMishra107/Luxe-Salon">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanMishra107&repo=Luxe-Salon&theme=tokyonight&bg_color=0D1117&border_color=30A3DC&border_radius=10&hide_border=false" 
+    <a href="https://github.com/AtharvaKadam27/Luxe-Salon">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaKadam27&repo=Luxe-Salon&theme=tokyonight&bg_color=0D1117&border_color=30A3DC&border_radius=10&hide_border=false" 
            alt="Luxe-Salon" style="max-width: 100%; height: auto;"/>
     </a>
     <br><br>
@@ -229,7 +229,7 @@ const currentFocus = {
 ## 📊 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanMishra107&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvaKadam27&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -237,7 +237,7 @@ const currentFocus = {
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/AmanMishra107/AmanMishra107/output/snake-dark.svg" alt="Dark Snake animation" />
+  <img src="https://raw.githubusercontent.com/AtharvaKadam27/AtharvaKadam27/output/snake-dark.svg" alt="Dark Snake animation" />
 
 </div>
 
@@ -253,7 +253,7 @@ const currentFocus = {
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmanMishra107&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=2&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AtharvaKadam27&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=2&column=3" />
 </div>
 
 <div align="center">
@@ -321,16 +321,16 @@ Other        38 mins         █░░░░░░░░░░░░░░░░
   </h2>
 </div>
 <p align="center">
-  <a href="https://linkedin.com/in/AmanMishra107" target="_blank">
+  <a href="https://linkedin.com/in/AtharvaKadam27" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/AmanMishra107" target="_blank">
+  <a href="https://x.com/AtharvaKadam27" target="_blank">
     <img src="https://img.shields.io/badge/Twitter%20-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="Twitter (X)"/>
   </a>
   <a href="https://instagram.com/aman.mishra__107" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:amanpavanmishra10@gmail.com" target="_blank">
+  <a href="mailto:atharvak396@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://aman-ethical-hacker-portfolio.vercel.app/" target="_blank">
@@ -362,7 +362,7 @@ Other        38 mins         █░░░░░░░░░░░░░░░░
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmanMishra107&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=AtharvaKadam27&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
 
 <div align="center">
